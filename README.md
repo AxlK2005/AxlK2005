@@ -11,26 +11,26 @@ A Student.
 
 <p align="left"> 
   <picture>
-    <source height="150"
+    <source height="160px"
       srcset="https://github-readme-stats.vercel.app/api?username=AxlK2005&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
-    <source height="150"
+    <source height="160px"
       srcset="https://github-readme-stats.vercel.app/api?username=AxlK2005&show_icons=true&theme=buefy"
       media="(prefers-color-scheme: light)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=AxlK2005&show_icons=true" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=AxlK2005&show_icons=true" />
   </picture>
   <picture>
-    <source height="150"
+    <source height="160px"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlK2005&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
-    <source height="150"
+    <source height="160px"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlK2005&show_icons=true&theme=buefy"
       media="(prefers-color-scheme: light)"
     />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlK2005&show_icons=true" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxlK2005&show_icons=true" />
   </picture>
 </p>
 
