@@ -1,10 +1,10 @@
 # About Me
 
-A Student.
+2025 Graduate
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=git,github" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,java,python,html,css)](https://skillicons.dev)
 
 
 ## Stats
