@@ -4,8 +4,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,java,python,html,css)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=git,github,java,python,html,css" />
 
 ## Stats
 
