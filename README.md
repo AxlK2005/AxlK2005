@@ -1,6 +1,6 @@
 # About Me
 
-2025 Graduate
+ＩＴ専門学校生　２０２５年卒業
 
 ## Skills
 
