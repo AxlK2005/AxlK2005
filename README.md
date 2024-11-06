@@ -4,7 +4,7 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=git,github,java,js,python,html,css" />
+<img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js" />
 
 ## Stats
 
